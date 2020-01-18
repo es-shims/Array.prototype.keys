@@ -1,0 +1,33 @@
+{
+	"name": "array.prototype.keys",
+	"version": "0.0.0",
+	"description": "An ES2015 spec-compliant `Array.prototype.keys` shim/polyfill/replacement that works as far down as ES3.",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/es-shims/Array.prototype.keys.git"
+	},
+	"keywords": [
+		"Array.prototype.keys",
+		"keys",
+		"array",
+		"ES5",
+		"ES6",
+		"ES2015",
+		"shim",
+		"polyfill",
+		"es-shim API"
+	],
+	"author": "Jordan Harband <ljharb@gmail.com>",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/es-shims/Array.prototype.keys/issues"
+	},
+	"homepage": "https://github.com/es-shims/Array.prototype.keys#readme",
+	"engines": {
+		"node": ">= 0.4"
+	}
+}
