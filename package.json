@@ -3,6 +3,22 @@
 	"version": "0.0.0",
 	"description": "An ES2015 spec-compliant `Array.prototype.keys` shim/polyfill/replacement that works as far down as ES3.",
 	"main": "index.js",
+	"type": "commonjs",
+	"exports": {
+		".": [
+			{
+				"import": "./index.mjs",
+				"require": "./index.js",
+				"default": "./index.js"
+			},
+			"./index.js"
+		],
+		"./polyfill": "./polyfill.js",
+		"./implementation": "./implementation.js",
+		"./shim": "./shim.js",
+		"./package": "./package.json",
+		"./package.json": "./package.json"
+	},
 	"scripts": {
 		"prepublish": "safe-publish-latest",
 		"pretest": "npm run lint",
