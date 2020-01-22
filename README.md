@@ -1,5 +1,7 @@
 # array.prototype.keys <sup>[![Version Badge][npm-version-svg]][package-url]</sup>
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/es-shims/Array.prototype.keys.svg)](https://greenkeeper.io/)
+
 [![Build Status][travis-svg]][travis-url]
 [![dependency status][deps-svg]][deps-url]
 [![dev dependency status][dev-deps-svg]][dev-deps-url]
