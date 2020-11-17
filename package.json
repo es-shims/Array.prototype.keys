@@ -24,7 +24,7 @@
 		"pretest": "npm run lint",
 		"prelint": "evalmd README.md",
 		"lint": "eslint .",
-		"tests-only": "tape 'test/**'",
+		"tests-only": "nyc tape 'test/**'",
 		"test": "npm run tests-only",
 		"posttest": "npx aud --production",
 		"version": "auto-changelog && git add CHANGELOG.md",
@@ -67,6 +67,7 @@
 		"functions-have-names": "^1.2.1",
 		"has-strict-mode": "^1.0.0",
 		"iterate-iterator": "^1.0.1",
+		"nyc": "^10.3.2",
 		"safe-publish-latest": "^1.1.4",
 		"tape": "^5.0.0-next.5"
 	},
