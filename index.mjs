@@ -1,5 +1,5 @@
-import callBind from 'es-abstract/helpers/callBind.js';
-import RequireObjectCoercible from 'es-abstract/2019/RequireObjectCoercible.js';
+import callBind from 'call-bind';
+import RequireObjectCoercible from 'es-abstract/2020/RequireObjectCoercible.js';
 
 import getPolyfill from 'array.prototype.keys/polyfill';
 
@@ -8,7 +8,7 @@ const bound = callBind(getPolyfill());
 export default function keys(array) {
 	RequireObjectCoercible(array);
 	return bound(array);
-};
+}
 
 export { default as getPolyfill } from 'array.prototype.keys/polyfill';
 export { default as implementation } from 'array.prototype.keys/implementation';
