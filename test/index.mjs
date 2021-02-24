@@ -19,7 +19,7 @@ test('named exports', async (t) => {
 	t.deepEqual(
 		Object.keys(keysModule).sort(),
 		['default', 'shim', 'getPolyfill', 'implementation'].sort(),
-		'has expected named exports'
+		'has expected named exports',
 	);
 
 	const { shim, getPolyfill, implementation } = keysModule;
