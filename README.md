@@ -2,7 +2,6 @@
 
 [![Greenkeeper badge](https://badges.greenkeeper.io/es-shims/Array.prototype.keys.svg)](https://greenkeeper.io/)
 
-[![Build Status][travis-svg]][travis-url]
 [![dependency status][deps-svg]][deps-url]
 [![dev dependency status][dev-deps-svg]][dev-deps-url]
 [![License][license-image]][license-url]
@@ -55,9 +54,7 @@ assert.deepEqual(iterate([1, 2, 3].keys()), [0, 1, 2]);
 Simply clone the repo, `npm install`, and run `npm test`
 
 [package-url]: https://npmjs.org/package/array.prototype.keys
-[npm-version-svg]: http://versionbadg.es/es-shims/Array.prototype.keys.svg
-[travis-svg]: https://travis-ci.org/es-shims/Array.prototype.keys.svg
-[travis-url]: https://travis-ci.org/es-shims/Array.prototype.keys
+[npm-version-svg]: https://versionbadg.es/es-shims/Array.prototype.keys.svg
 [deps-svg]: https://david-dm.org/es-shims/Array.prototype.keys.svg
 [deps-url]: https://david-dm.org/es-shims/Array.prototype.keys
 [dev-deps-svg]: https://david-dm.org/es-shims/Array.prototype.keys/dev-status.svg
