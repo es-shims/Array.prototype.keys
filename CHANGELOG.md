@@ -5,6 +5,26 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [v1.0.2](https://github.com/es-shims/Array.prototype.keys/compare/v1.0.1...v1.0.2) - 2021-10-01
+
+### Commits
+
+- [actions] use `node/install` instead of `node/run`; use `codecov` action [`6256835`](https://github.com/es-shims/Array.prototype.keys/commit/625683503d84a7f7d038dccc5832089986c0d033)
+- [Dev Deps] update `eslint`, `@ljharb/eslint-config`, `aud`, `functions-have-names`, `has-strict-mode`, `tape` [`cc74877`](https://github.com/es-shims/Array.prototype.keys/commit/cc74877edc242817294dd17b67b6fa6933bb8a28)
+- [actions] update workflows [`ad0765a`](https://github.com/es-shims/Array.prototype.keys/commit/ad0765ae8a942977efdec53ef4e44dc13a0b1acb)
+- [Deps] update `es-abstract`, `es-create-array-iterator` [`7321d23`](https://github.com/es-shims/Array.prototype.keys/commit/7321d231139ead59989012700d4547f1baec9d09)
+- [Dev Deps] update `eslint`, `@ljharb/eslint-config`, `aud`, `auto-changelog`, `tape` [`a29fbb4`](https://github.com/es-shims/Array.prototype.keys/commit/a29fbb471ad4e39e776348b27f7f8c910e4d30a3)
+- [readme] add github actions/codecov badges [`c27946e`](https://github.com/es-shims/Array.prototype.keys/commit/c27946e03ae4a9657229e0c7a14a7c913b6103c5)
+- [actions] update workflows [`1dff1fa`](https://github.com/es-shims/Array.prototype.keys/commit/1dff1fa6fd37682f76734b38d17881516e47fe21)
+- [Deps] update `call-bind`, `es-abstract`, `es-create-array-iterator` [`f05b92c`](https://github.com/es-shims/Array.prototype.keys/commit/f05b92c1113415df72481091f1aca78c08c2c440)
+- [readme] remove travis badge [`a198dcf`](https://github.com/es-shims/Array.prototype.keys/commit/a198dcf6351ad92d82b62b23d218788cff5f783e)
+- [Dev Deps] update `eslint`, `tape` [`20d145f`](https://github.com/es-shims/Array.prototype.keys/commit/20d145f2075d2122ddf9bce30f94ea4f1da31535)
+- [meta] use `prepublishOnly`, for npm 7+ [`56710cf`](https://github.com/es-shims/Array.prototype.keys/commit/56710cf55ef6aece5b4b836086898e3b9a6df97e)
+- [meta] eslintignore coverage [`a9c5409`](https://github.com/es-shims/Array.prototype.keys/commit/a9c5409d5100c8288b62a19031737e04b4b61745)
+- [Tests] add `@es-shims/api` [`a1eef97`](https://github.com/es-shims/Array.prototype.keys/commit/a1eef97a03d3b1c18f75d07efe5d802951188b7e)
+- [Deps] update `es-abstract` [`31e1cb9`](https://github.com/es-shims/Array.prototype.keys/commit/31e1cb9997765c801c5c0fdd57038d9e264121b2)
+- [Tests] increase coverage [`19b0302`](https://github.com/es-shims/Array.prototype.keys/commit/19b0302a56b9b56d3c8950c060dd2d632fd115f7)
+
 ## [v1.0.1](https://github.com/es-shims/Array.prototype.keys/compare/v1.0.0...v1.0.1) - 2020-11-17
 
 ### Commits
