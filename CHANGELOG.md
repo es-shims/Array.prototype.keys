@@ -5,6 +5,15 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [v1.0.3](https://github.com/es-shims/Array.prototype.keys/compare/v1.0.2...v1.0.3) - 2021-10-05
+
+### Commits
+
+- [Dev Deps] update `@es-shims/api`, `iterate-iterator` [`256cf48`](https://github.com/es-shims/Array.prototype.keys/commit/256cf483835a85e09d1226d283e8428041de220e)
+- [actions] update workflows [`4d774cf`](https://github.com/es-shims/Array.prototype.keys/commit/4d774cfedc2cf8ff6b61edecc25b9fa3b27204b6)
+- [Deps] update `es-abstract` [`bcb3b19`](https://github.com/es-shims/Array.prototype.keys/commit/bcb3b1996730189831792f00349636154747367f)
+- [Refactor] forgot a 2020 -&gt; 2021 [`3a17c81`](https://github.com/es-shims/Array.prototype.keys/commit/3a17c8133aa8ec28550d6294221e1f03747b228b)
+
 ## [v1.0.2](https://github.com/es-shims/Array.prototype.keys/compare/v1.0.1...v1.0.2) - 2021-10-01
 
 ### Commits
