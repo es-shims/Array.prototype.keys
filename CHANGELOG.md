@@ -5,6 +5,15 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [v1.0.4](https://github.com/es-shims/Array.prototype.keys/compare/v1.0.3...v1.0.4) - 2021-12-14
+
+### Commits
+
+- [actions] reuse common workflows [`e81ab54`](https://github.com/es-shims/Array.prototype.keys/commit/e81ab547a4c3db1859efc1992f39a65f7ed973f6)
+- [actions] update codecov uploader [`82b3103`](https://github.com/es-shims/Array.prototype.keys/commit/82b310387b5b68837141e5b7a10947a8dbeb14f9)
+- [Dev Deps] update `eslint`, `@ljharb/eslint-config`, `safe-publish-latest`, `tape` [`d441f3e`](https://github.com/es-shims/Array.prototype.keys/commit/d441f3e5cc9674cc8af64373e99c3741531a5146)
+- [meta] fix "exports" [`d610af6`](https://github.com/es-shims/Array.prototype.keys/commit/d610af601934d00df02b8a74f7fc5c71ea5cb8df)
+
 ## [v1.0.3](https://github.com/es-shims/Array.prototype.keys/compare/v1.0.2...v1.0.3) - 2021-10-05
 
 ### Commits
