@@ -5,6 +5,15 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [v1.1.1](https://github.com/es-shims/Array.prototype.keys/compare/v1.1.0...v1.1.1) - 2022-11-03
+
+### Commits
+
+- [meta] use `npmignore` to autogenerate an npmignore file [`9443896`](https://github.com/es-shims/Array.prototype.keys/commit/9443896719447d6e9f1c10a9d9e7478be0b7f0ce)
+- [actions] update rebase action to use reusable workflow [`143c79a`](https://github.com/es-shims/Array.prototype.keys/commit/143c79a23f3a09badd8a051d46c83f30874c7f61)
+- [Deps] update `define-properties`, `es-abstract` [`f8b50d0`](https://github.com/es-shims/Array.prototype.keys/commit/f8b50d04c1e7c287d33302de8d148c976ce874fc)
+- [Dev Deps] update `aud`, `functions-have-names`, `tape` [`024daf2`](https://github.com/es-shims/Array.prototype.keys/commit/024daf2835752f8d89f4258ba021152c9c8bfbb3)
+
 ## [v1.1.0](https://github.com/es-shims/Array.prototype.keys/compare/v1.0.4...v1.1.0) - 2022-04-11
 
 ### Commits
