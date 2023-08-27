@@ -1,7 +1,7 @@
 'use strict';
 
 var CreateArrayIterator = require('es-create-array-iterator');
-var ToObject = require('es-abstract/2022/ToObject');
+var ToObject = require('es-abstract/2023/ToObject');
 
 module.exports = function keys() {
 	var O = ToObject(this);
