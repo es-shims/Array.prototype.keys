@@ -70,9 +70,9 @@
 		"tape": "^5.7.5"
 	},
 	"dependencies": {
-		"call-bind": "^1.0.5",
+		"call-bind": "^1.0.7",
 		"define-properties": "^1.2.1",
-		"es-create-array-iterator": "^1.0.7",
+		"es-create-array-iterator": "^1.0.8",
 		"es-object-atoms": "^1.0.0",
 		"es-shim-unscopables": "^1.0.2",
 		"is-callable": "^1.2.7"
