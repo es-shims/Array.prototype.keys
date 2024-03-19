@@ -1,6 +1,6 @@
 'use strict';
 
-var IsCallable = require('es-abstract/2023/IsCallable');
+var IsCallable = require('is-callable');
 
 var implementation = require('./implementation');
 

@@ -72,9 +72,10 @@
 	"dependencies": {
 		"call-bind": "^1.0.5",
 		"define-properties": "^1.2.1",
-		"es-abstract": "^1.22.3",
 		"es-create-array-iterator": "^1.0.7",
-		"es-shim-unscopables": "^1.0.2"
+		"es-object-atoms": "^1.0.0",
+		"es-shim-unscopables": "^1.0.2",
+		"is-callable": "^1.2.7"
 	},
 	"testling": {
 		"files": "test/*.js"
